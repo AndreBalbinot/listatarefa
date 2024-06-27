@@ -10,5 +10,5 @@ $mysqli = new mysqli($host, $usuario, $senha, $database);
 
 // verificar se a conexão deu certo ou nao //
 if ($mysqli->error) {
-    die("Falha ao conectar ao banco de dados" . $mysqli->error);
+    die("Falha ao conectar ao banco de dado" . $mysqli->error);
 }
