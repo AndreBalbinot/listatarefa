@@ -34,7 +34,7 @@ body {
     border-radius: 3px;
   }
   input[type="submit"]:hover {
-    background-color: #ff0000;
+    background-color: #084647;
     transition: 1s;
   }
 .center {
